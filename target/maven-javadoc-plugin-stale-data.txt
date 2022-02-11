@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/0work/javagyak/atvaltas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/0work/javagyak/atvaltas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'atvaltas 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/0work/javagyak/atvaltas/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'atvaltas 1.0-SNAPSHOT API'
+hu.gov.allamkincstar.atvaltas
+'C:/0work/javagyak/atvaltas/src/main/java/hu/gov/allamkincstar/atvaltas/atvaltasJFrame.java'
+'C:/0work/javagyak/atvaltas/src/main/java/hu/gov/allamkincstar/atvaltas/CertificatValidator.java'
+C:\0work\javagyak\atvaltas\src\main\java = 1644518707963
+C:\0work\javagyak\atvaltas\target\site\apidocs\allclasses-index.html = 1644574025970
+C:\0work\javagyak\atvaltas\target\site\apidocs\allclasses.html = 1644574025988
+C:\0work\javagyak\atvaltas\target\site\apidocs\allpackages-index.html = 1644574025975
+C:\0work\javagyak\atvaltas\target\site\apidocs\constant-values.html = 1644574025882
+C:\0work\javagyak\atvaltas\target\site\apidocs\deprecated-list.html = 1644574025984
+C:\0work\javagyak\atvaltas\target\site\apidocs\element-list = 1644574025858
+C:\0work\javagyak\atvaltas\target\site\apidocs\help-doc.html = 1644574025997
+C:\0work\javagyak\atvaltas\target\site\apidocs\index-all.html = 1644574025963
+C:\0work\javagyak\atvaltas\target\site\apidocs\index.html = 1644574025991
+C:\0work\javagyak\atvaltas\target\site\apidocs\member-search-index.js = 1644574025957
+C:\0work\javagyak\atvaltas\target\site\apidocs\member-search-index.zip = 1644574025959
+C:\0work\javagyak\atvaltas\target\site\apidocs\overview-tree.html = 1644574025926
+C:\0work\javagyak\atvaltas\target\site\apidocs\package-search-index.js = 1644574025936
+C:\0work\javagyak\atvaltas\target\site\apidocs\package-search-index.zip = 1644574025950
+C:\0work\javagyak\atvaltas\target\site\apidocs\script.js = 1644574026006
+C:\0work\javagyak\atvaltas\target\site\apidocs\search.js = 1644574026009
+C:\0work\javagyak\atvaltas\target\site\apidocs\serialized-form.html = 1644574025897
+C:\0work\javagyak\atvaltas\target\site\apidocs\stylesheet.css = 1644574026003
+C:\0work\javagyak\atvaltas\target\site\apidocs\type-search-index.js = 1644574025953
+C:\0work\javagyak\atvaltas\target\site\apidocs\type-search-index.zip = 1644574025955

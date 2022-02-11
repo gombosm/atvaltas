@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"hu.gov.allamkincstar.atvaltas","c":"atvaltasJFrame","l":"atvaltasJFrame()","url":"%3Cinit%3E()"},{"p":"hu.gov.allamkincstar.atvaltas","c":"CertificatValidator","l":"CertificatValidator()","url":"%3Cinit%3E()"},{"p":"hu.gov.allamkincstar.atvaltas","c":"atvaltasJFrame","l":"main(String[])","url":"main(java.lang.String[])"}]
